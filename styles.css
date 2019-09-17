@@ -1,0 +1,18 @@
+/* Intro to CSS */
+
+body {
+	font-family: sans-serif;
+	background-color: indigo;
+	color: violet; margin: 20px; border: dotted; line-height: 2.0
+
+}
+
+h1 { 
+	font-size: 4em
+ }
+ h2 { 
+ 	font-weight: 100
+ }
+ p { 
+ 	max-width: 15cm; text-indent: 10px; 
+  }
